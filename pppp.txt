@@ -1,0 +1,61 @@
+
+Professional summary
+
+Certified AWS Solutions Architect-Associate with 6 years of IT experience specializing in Cloud Infrastructure, Automation, Configuration Management, CI/CD, and Monitoring. Proficient in managing and deploying cloud environments across AWS, Azure, and GCP, with hands-on expertise in DevOps best practices and Agile methodologies.
+
+• Strong experience in AWS services, including EC2, S3, RDS, VPC, IAM, CloudFormation, Route 53, Elastic Load Balancer, Lambda, and CloudWatch for cloud deployment and automation.
+• Hands-on experience designing secure and scalable VPC architectures with subnets, security groups, NAT gateways, and IAM policies for fine-grained access control.
+• Proficient in Azure IaaS/PaaS services such as Azure VMs, Virtual Networks, Azure DevOps, Storage, AKS, App Services, Key Vault, and Automation.
+• Solid experience in Infrastructure as Code (IaC) using Terraform for provisioning cloud resources efficiently.
+• Experience in Docker & Kubernetes for containerized application deployment, orchestration, and management, including Helm charts for versioned deployments.
+• Hands-on experience in setting up CI/CD pipelines using Jenkins, GitLab CI/CD, and Azure DevOps, automating build, test, and deployment workflows.
+• Experience in Google Cloud Platform (GCP) services like GCE, IAM, BigQuery, Kubernetes (GKE), and Cloud Storage for cloud-native solutions.
+• Experience in Ansible and AWS CloudFormation for automating infrastructure provisioning and configuration management.
+• Expertise in monitoring and logging using Prometheus, ELK, Datadog, and CloudWatch for performance optimization and troubleshooting.
+• Experience in writing Shell, Bash, Python, and PowerShell scripts for automation, cloud management, and monitoring tasks.
+• Strong understanding of security best practices for cloud environments, including Twistlock, SonarQube, and Veracode for vulnerability assessment and compliance checks.
+• Experience working in Agile environments, collaborating with cross-functional teams for cloud infrastructure and DevOps implementation.
+
+TECHNICAL SKILLS
+Cloud
+AWS, Azure, GCP
+
+Configuration Management Tools
+Terraform, Ansible, Chef
+
+CI/CD Tools
+Jenkins, GitLab CI/CD, Bamboo
+
+Build Tools
+Maven, Gradle, MS Build, NPM
+
+Container Tools
+Docker, Kubernetes
+
+Version Control Tools
+GIT, BitBucket, SVN
+
+Monitoring Tools
+Nagios, Splunk, CloudWatch, Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana), New Relic
+
+Databases
+MySQL, SQL Server, MongoDB, DynamoDB
+
+Web Servers
+Apache Tomcat, Nginx, JBoss
+
+Application Servers
+WebLogic, WebSphere, Apache Tomcat, Red Hat JBoss
+
+Repository Management
+JFrog, Nexus
+
+Operating Systems
+Ubuntu, CentOS, Red Hat Linux, Windows
+
+Network Protocols
+TCP/IP, DNS, DHCP, SNMP
+
+Scripting
+Python, Bash, PowerShell, YAML, JSON
+
